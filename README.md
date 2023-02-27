@@ -1,8 +1,8 @@
 ## 🫡 Olá, eu sou Ednei Andres
 
 <div>
-<img height="172em" src="https://github-readme-stats.vercel.app/api?username=EdneiAndres&show_icons=true&theme=gotham">
-<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdneiAndres&layout=compact&theme=gotham">
+<img height="172em" width="45%" src="https://github-readme-stats.vercel.app/api?username=EdneiAndres&show_icons=true&theme=gotham">
+<img height="172em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdneiAndres&layout=compact&theme=gotham">
 </div>
 
 <div style="display: inline_block"><br>
